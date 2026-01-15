@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="48392" name="Win DE SWAP FIX" maxout="1">
+<keyboard group="0" id="48392" name="Windows - German ISO" maxout="1">
   <layouts>
       <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
       <layout first="18" last="18" modifiers="Modifiers" mapSet="JIS"/>
