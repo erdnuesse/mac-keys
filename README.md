@@ -1,5 +1,5 @@
 # mac-keys
-mini repo of a keyboard config file to use win keyboards on mac OS
+mini repo of a [german] keyboard config file to use [german ISO] win keyboards on mac OS
 
 ## Usage
 1. Download the file
