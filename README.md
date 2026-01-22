@@ -9,6 +9,6 @@ mini repo of a [german] keyboard config file to use [german ISO] win keyboards o
 5. Use the [ + ] Button to add another Layout
 6. Search for others and select the profile, or search for "ISO" where you find "Windows - German ISO", use that, click add.
 7. Optional: Use "Show Input menu in menu bar" to quickly change between layouts, helpful for Macbooks.
-8. Default Hotkey: CTRL - <Space>
+8. Default Hotkey: CTRL - [Space]
 
 If someone codes a flesh eating computer virus with that or anything similar, I will not be held accountable. <see license>
